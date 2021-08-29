@@ -1,2 +1,2 @@
-# candeger
-Yeni Numaram Projesi
+# Teşekkürler
+Bana vakit ayırdığınız için teşekkür ederim.
